@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hazartaspinar
-- 👀 I’m interested cybersecurity and software
-- 🌱 I’m currently learning software languages
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested cybersecurity
 - 📫 How to reach me ? you can reach me on linkedin.
 
 <!---
